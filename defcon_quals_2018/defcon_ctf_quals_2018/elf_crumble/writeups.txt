@@ -1,0 +1,8 @@
+https://mhackeroni.it/archive/2018/05/20/defconctfquals-2018-all-writeups.html#elf-crumble
+https://www.serraabak.com/notes/DefconCTFQuals-RE-ELF-Crumble
+https://github.com/guyinatuxedo/ctf/tree/master/defconquals2018/elf-crumble
+https://advancedpersistentjest.com/2018/05/14/writeups-elf-crumble-defcon-quals/
+https://github.com/AntithesisConundrum/ctf-writeups/tree/master/defcon-quals-2018/fragments
+https://ctftime.org/writeup/10054
+https://github.com/Aurel300/empirectf/blob/master/writeups/2018-05-12-DEF-CON-CTF-Qualifier/README.md#102-elf-crumble
+https://ctftime.org/writeup/10042

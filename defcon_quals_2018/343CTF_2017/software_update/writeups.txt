@@ -1,0 +1,2 @@
+https://github.com/p4-team/ctf/tree/master/2017-12-29-34c3/crypto_software_update
+https://sectt.github.io/writeups/34C3CTF/crypto_182_software_update/Readme

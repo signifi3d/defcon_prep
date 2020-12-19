@@ -1,0 +1,2 @@
+https://github.com/FrenchRoomba/ctf-writeup-HITCON-CTF-2020/blob/master/baby-shock/README.md
+https://github.com/hyperreality/ctf-writeups/tree/master/2020_hitcon#baby-shock-201pts

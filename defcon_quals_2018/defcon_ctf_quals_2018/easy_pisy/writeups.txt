@@ -1,0 +1,3 @@
+https://mhackeroni.it/archive/2018/05/20/defconctfquals-2018-all-writeups.html#easy-pisy
+https://masarik.sh/posts/sha1collider/
+https://github.com/EmpireCTF/empirectf/blob/master/writeups/2018-05-12-DEF-CON-CTF-Qualifier/README.md#104-easy-pisy

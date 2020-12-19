@@ -1,0 +1,3 @@
+https://mhackeroni.it/archive/2018/05/20/defconctfquals-2018-all-writeups.html#shellql
+https://devcraft.io/2018/05/21/shellql-def-con-ctf-qualifier-2018.html
+https://blog.vero.site/post/shellql

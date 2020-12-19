@@ -1,0 +1,10 @@
+potassium
+3 days ago
+Pwnable (800 pts)
+Whoever wrote this was a bit klutzy. 
+
+Connect to k.chal.pwning.xxx:2994. 
+
+Flag 1 (fluoride) available in flag.txt 
+Flag 2 (chloride) available in flag2.txt 
+Flag 3 (cyanide) available in flag3-[0-9a-z]{40}.txt

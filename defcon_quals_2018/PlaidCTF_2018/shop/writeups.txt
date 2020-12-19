@@ -1,0 +1,4 @@
+https://github.com/sajjadium/PersianCatsCTF/tree/master/PlaidCTF/2018/shop
+https://nickcano.com/plaidctf-shop/
+https://segflow.github.io/post/plaid-ctf-shop/
+https://github.com/yuawn/CTF/tree/master/2018/PCTF/shop

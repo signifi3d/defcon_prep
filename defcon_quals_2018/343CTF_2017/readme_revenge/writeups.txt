@@ -1,0 +1,2 @@
+https://github.com/r00ta/myWriteUps/tree/master/34C32017/pwn_readme_revenge
+https://gist.github.com/romanking98/8d0bb360a9563694d1d71f6a8cce3c3f

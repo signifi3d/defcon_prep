@@ -1,0 +1,2 @@
+https://github.com/antihorsey/ctf-writeups/tree/master/plaid-2018/RePlaidPartyPlanning
+https://ctftime.org/writeup/9991

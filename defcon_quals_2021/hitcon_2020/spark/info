@@ -1,0 +1,1 @@
+This is a kernel object module that the competition created. The run.sh emulates a linux os that has a flag file in it. The module finds a shortest path between two points on a graph. I assume you exploit the module to escalate priveleges or open the file. I'm not experienced enough to be able to give it a good shot.

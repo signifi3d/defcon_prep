@@ -1,0 +1,2 @@
+https://github.com/DhavalKapil/ctf-writeups/tree/master/34c3ctf-2017/300
+https://gist.github.com/sroettger/591b355b50f7f28f99b27ca6194681ad

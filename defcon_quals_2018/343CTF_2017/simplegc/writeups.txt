@@ -1,0 +1,3 @@
+https://github.com/sajjadium/PersianCatsCTF/tree/master/C3CTF/2017/simplegc
+http://blog.rh0gue.com/2018-01-05-34c3ctf-simplegc/
+https://github.com/epadctf/34c3/tree/master/SimpleGC

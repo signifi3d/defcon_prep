@@ -1,0 +1,3 @@
+https://mhackeroni.it/archive/2018/05/20/defconctfquals-2018-all-writeups.html#race-wars
+https://balsn.tw/ctf_writeup/20180512-defconctfqual/
+https://github.com/toomanybananas/ctf_solutions/tree/master/defcon/2018/racewars

@@ -1,0 +1,2 @@
+https://github.com/PimentelM/CTF-Writeups/blob/master/2017/34c3/primes/README.md
+https://blog.bushwhackers.ru/34c3-ctf-primepwn/

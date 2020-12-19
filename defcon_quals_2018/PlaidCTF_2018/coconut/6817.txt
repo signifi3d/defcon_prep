@@ -1,0 +1,74 @@
+SAMPLE TEXT ONLY, OUTPUT CHANGES
+
+
+
+Testing 881f9cbfc4e3a2accd1d0f6bd1554f85, threshold required <= 16
+Function to optimize:
+1	.globl	myfunction
+2	myfunction:
+3	pushq	%rbp
+4	movq	%rsp, %rbp
+5	movl	$-1115296162, -44(%rbp)
+6	movl	$1643768301, -40(%rbp)
+7	movl	$-1737487656, -36(%rbp)
+8	movl	-36(%rbp), %eax
+9	movl	-40(%rbp), %edx
+10	subl	%eax, %edx
+11	movl	%edx, %eax
+12	movl	%eax, -32(%rbp)
+13	movl	-32(%rbp), %eax
+14	movl	%eax, -28(%rbp)
+15	movl	$-890701401, -24(%rbp)
+16	movl	-24(%rbp), %eax
+17	movl	-36(%rbp), %edx
+18	andl	%edx, %eax
+19	movl	%eax, -20(%rbp)
+20	movl	-40(%rbp), %eax
+21	movl	-32(%rbp), %edx
+22	orl	%edx, %eax
+23	movl	%eax, -16(%rbp)
+24	movl	$-930860172, -12(%rbp)
+25	movl	-12(%rbp), %eax
+26	movl	-40(%rbp), %edx
+27	movl	%edx, %ecx
+28	subl	%eax, %ecx
+29	movl	-44(%rbp), %eax
+30	movl	-24(%rbp), %edx
+31	addl	%edx, %eax
+32	andl	%ecx, %eax
+33	movl	%eax, -8(%rbp)
+34	movl	-12(%rbp), %eax
+35	movl	-40(%rbp), %edx
+36	subl	%eax, %edx
+37	movl	-44(%rbp), %eax
+38	addl	%edx, %eax
+39	movl	%eax, -4(%rbp)
+40	movl	-4(%rbp), %eax
+41	popq	%rbp
+42	ret
+<<<EOF>>>
+Input on each line either a single line number to remove or a range to remove.
+A range is represented by "N-M", where lines N to M (inclusive) are the lines to remove.
+A line is represented by "N", where N is the line number to remove.
+A single "#" represents the end of input.
+
+Example:
+
+    A range deleting lines 10 to 14
+
+    10-14
+
+    A remove a single line 100
+
+    100
+
+Example input:
+
+4
+5
+10-15
+18-20
+28
+#
+
+Note: Line numbers to delete can only be >=5 and <=40:

@@ -1,0 +1,4 @@
+https://mhackeroni.it/archive/2018/05/20/defconctfquals-2018-all-writeups.html#php-eval-white-list
+https://rawsec.ml/en/DefCon-2018-Quals-write-up/#php-eval-white-list-web
+https://github.com/EmpireCTF/empirectf/blob/master/writeups/2018-05-12-DEF-CON-CTF-Qualifier/README.md#104-php-eval-white-list
+https://ctftime.org/writeup/10041

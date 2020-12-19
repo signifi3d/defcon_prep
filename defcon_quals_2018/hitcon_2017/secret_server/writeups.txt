@@ -1,0 +1,3 @@
+https://toh.necst.it/hitconquals2017/crypto/Secret_Server/
+https://github.com/p4-team/ctf/tree/master/2017-11-04-hitcon/secret_server
+https://sectt.github.io/writeups/Hitcon-quals-17/crypto_Secret_server/README

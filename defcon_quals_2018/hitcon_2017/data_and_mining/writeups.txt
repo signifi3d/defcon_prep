@@ -1,0 +1,3 @@
+https://r3dcr3sc3nt.github.io/HITCON-CTF-2017.html#data-and-mining
+https://ctftime.org/writeup/7969
+https://infosec.rm-it.de/2017/11/06/hitcon-2017-ctf-data-mining/

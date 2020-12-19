@@ -1,0 +1,2 @@
+https://mhackeroni.it/archive/2018/05/20/defconctfquals-2018-all-writeups.html#babypwn1805
+https://github.com/yuawn/CTF/tree/master/2018/defcon

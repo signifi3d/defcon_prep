@@ -1,0 +1,2 @@
+https://github.com/lbherrera/writeups/blob/master/0ctf_quals-2018/h4x0rs.club/README.md
+https://github.com/l4wio/CTF-challenges-by-me/tree/master/0ctf_quals-2018/h4x0rs.club

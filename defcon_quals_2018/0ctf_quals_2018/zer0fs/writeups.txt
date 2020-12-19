@@ -1,0 +1,1 @@
+http://blog.eadom.net/writeups/0ctf-2018-zerofs-writeup/

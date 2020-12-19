@@ -1,0 +1,8 @@
+Pupper
+3 days ago
+Misc (50 pts)
+This heckin' good boye wants to protect his flags, so he implemented a taint analysis in a typechecker. Hopefully he got it right. 
+
+nc wolf.chal.pwning.xxx 6808 for an interpreter. 
+
+Recommended reading: https://youtu.be/wn1WmRwxDvI.

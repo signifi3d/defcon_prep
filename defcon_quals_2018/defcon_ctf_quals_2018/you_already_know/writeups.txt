@@ -1,0 +1,5 @@
+https://mhackeroni.it/archive/2018/05/20/defconctfquals-2018-all-writeups.html#you-already-know
+https://github.com/WhiteHatCP/ctf-writeups/blob/master/defConQuals18/already.md
+https://www.serraabak.com/notes/DefconCTFQuals-Web-You-Already-Know
+https://github.com/Aurel300/empirectf/blob/master/writeups/2018-05-12-DEF-CON-CTF-Qualifier/README.md#101-you-already-know
+https://github.com/aicioara/ctf/tree/master/2018/2018-05-12-DefCon_Qualifiers/web/YouAlreadyKnow

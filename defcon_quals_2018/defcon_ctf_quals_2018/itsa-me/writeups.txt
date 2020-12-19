@@ -1,0 +1,4 @@
+https://mhackeroni.it/archive/2018/05/20/defconctfquals-2018-all-writeups.html#its-a-me
+https://github.com/LevitatingLion/ctf-writeups/blob/master/defcon_quals_2018/pwn_124_its_a_me/README.md
+https://raywang.tech/2018/05/14/DEF-CON-Quals-2018-It-s-a-Me/
+https://github.com/toomanybananas/ctf_solutions/tree/master/defcon/2018/mario

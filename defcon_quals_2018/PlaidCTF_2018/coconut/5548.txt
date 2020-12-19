@@ -1,0 +1,47 @@
+Testing a93605fa1b190e5fdb29b6754525ac4f, threshold required <= 10
+Function to optimize:
+1	.globl	myfunction
+2	myfunction:
+3	pushq	%rbp
+4	movq	%rsp, %rbp
+5	movl	$1930534792, -20(%rbp)
+6	movl	$-643475228, -16(%rbp)
+7	movl	-16(%rbp), %eax
+8	movl	-20(%rbp), %edx
+9	andl	%edx, %eax
+10	movl	%eax, -12(%rbp)
+11	movl	-16(%rbp), %eax
+12	movl	%eax, -8(%rbp)
+13	movl	-8(%rbp), %eax
+14	movl	-20(%rbp), %edx
+15	xorl	%edx, %eax
+16	movl	%eax, -4(%rbp)
+17	movl	-8(%rbp), %eax
+18	popq	%rbp
+19	ret
+<<<EOF>>>
+Input on each line either a single line number to remove or a range to remove.
+A range is represented by "N-M", where lines N to M (inclusive) are the lines to remove.
+A line is represented by "N", where N is the line number to remove.
+A single "#" represents the end of input.
+
+Example:
+
+    A range deleting lines 10 to 14
+
+    10-14
+
+    A remove a single line 100
+
+    100
+
+Example input:
+
+4
+5
+10-15
+18-20
+28
+#
+
+Note: Line numbers to delete can only be >=5 and <=17:

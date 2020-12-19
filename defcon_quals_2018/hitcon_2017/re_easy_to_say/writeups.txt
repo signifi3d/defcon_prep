@@ -1,0 +1,2 @@
+https://github.com/InfoSecIITR/write-ups/tree/master/2017/hitcon-quals-2017/misc/easy-to-say
+https://ctftime.org/writeup/7938

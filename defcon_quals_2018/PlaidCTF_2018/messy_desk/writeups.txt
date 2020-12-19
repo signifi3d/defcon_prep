@@ -1,0 +1,2 @@
+https://blog.vero.site/post/messy-desk
+https://github.com/netsuso/ctf-writeups/tree/master/plaid-2018/messy-desk/

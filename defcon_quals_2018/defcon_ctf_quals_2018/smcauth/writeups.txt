@@ -1,0 +1,2 @@
+https://upbhack.de/posts/2018/05/writeup-smcauth-from-def-con-ctf-qualifier-2018/
+https://blog.rpis.ec/2018/05/defcon-quals-2018-smcauth.html

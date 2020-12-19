@@ -1,0 +1,4 @@
+http://grazfather.github.io/posts/2018-05-06-plaid2018-coconut/
+https://ctftime.org/writeup/9971
+https://ctftime.org/writeup/9976
+https://medium.com/@bongtrop/plaid-ctf-2018-coconut-reversing-writeup-f80ea0a6f7fe

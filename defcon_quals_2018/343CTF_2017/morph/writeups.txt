@@ -1,0 +1,4 @@
+https://www.sigflag.at/blog/2017/writeup-34c3ctf-m0rph/
+https://github.com/epadctf/34c3/tree/master/morph
+https://github.com/Sinkmanu/CTF/tree/master/34C3CTF-2017-morph
+https://teamrocketist.github.io/2017/12/30/Reverse-34C3ctf-m0rph/

@@ -1,0 +1,4 @@
+https://mhackeroni.it/archive/2018/05/20/defconctfquals-2018-all-writeups.html#note-oriented-programming
+https://devcraft.io/2018/05/21/nop-def-con-ctf-qualifier-2018.html
+https://lyoungjoo.github.io/2018/05/15/Defcon-2018-quals-note-oriented-programming-write-up/
+https://ctftime.org/writeup/10040
