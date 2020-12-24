@@ -1,0 +1,2 @@
+https://github.com/EmpireCTF/empirectf/blob/master/writeups/2018-12-27-35C3-CTF/README.md#65-rev--corebot
+https://teamrocketist.github.io/2018/12/30/Reverse-35C3-corebot/

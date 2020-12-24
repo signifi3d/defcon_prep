@@ -1,0 +1,2 @@
+https://github.com/happysox/CTF_Writeups/tree/master/Defcon_CTF_2019/babyheap
+https://cr0wn.uk/2019/defcon-babyheap/

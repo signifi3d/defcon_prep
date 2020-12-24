@@ -1,0 +1,3 @@
+https://github.com/abeaumont/ctfs/blob/master/plaidctf-2019/horst/README.md
+https://grosquildu.github.io/writeups/2019/04/13/plaid-horst/
+https://sectt.github.io/writeups/Plaid19/crypto_horst/README

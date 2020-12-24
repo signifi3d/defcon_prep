@@ -1,0 +1,2 @@
+https://github.com/Septyem/0ctf_tctf_2019/tree/master/babysponge
+https://captf.com/2019/0ctf-quals/crypto/babysponge/

@@ -1,0 +1,4 @@
+https://changochen.github.io/2019-03-23-0ctf-2019.html
+https://github.com/EmpireCTF/empirectf/blob/master/writeups/2019-03-23-0CTF-TCTF-Quals/README.md#plang
+https://balsn.tw/ctf_writeup/20190323-0ctf_tctf2019quals/#plang
+https://github.com/vngkv123/CTF/blob/master/ctf_in_2019/plang.py

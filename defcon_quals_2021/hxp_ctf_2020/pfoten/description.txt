@@ -1,0 +1,3 @@
+Have you ever had a dream that you could do anything?
+
+Note: The kernel is a standard Linux kernel, we didn’t add any vulnerabilities.

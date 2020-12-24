@@ -1,0 +1,3 @@
+We all know that any fun CTF has stego, and the more stego it has the funner it is.
+
+Today we are releasing an evaluation version of the tool we use to solve all those pesky “xor/add/… those two images” tasks.

@@ -1,0 +1,6 @@
+https://github.com/EmpireCTF/empirectf/blob/master/writeups/2018-12-27-35C3-CTF/README.md#97-rev--juggle
+https://ctftime.org/writeup/12803
+https://ctftime.org/writeup/12782
+https://ctftime.org/writeup/12780
+https://tcode2k16.github.io/blog/posts/2018/35c3ctf-writeup/#juggle
+https://teamrocketist.github.io/2018/12/30/Reverse-35C3-juggle/

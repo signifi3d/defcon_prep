@@ -1,0 +1,4 @@
+https://ray-cp.github.io/archivers/0CTF_2019_PWN_WRITEUP#babyheap
+https://matshao.com/2019/03/28/Babayheap-2019/
+https://gist.github.com/unamer/81b55e513d03f8c092d38f839bc0137a
+https://hxp.io/blog/54/0CTF-Quals-2019-babyheap-writeup/

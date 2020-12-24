@@ -1,0 +1,3 @@
+I must admit that this challenge is rather pointless.
+
+Note: Due to reasons, the program accepts more than one input. Please contact us on IRC if you run into this. Sorry.

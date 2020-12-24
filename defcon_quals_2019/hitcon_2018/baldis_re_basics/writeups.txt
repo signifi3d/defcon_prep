@@ -1,0 +1,2 @@
+https://github.com/p4-team/ctf/tree/master/2018-10-20-hitcon/re_baldi
+https://github.com/OAlienO/CTF/tree/master/2018/HITCON-CTF/Baldis-RE-Basics

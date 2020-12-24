@@ -1,0 +1,4 @@
+https://github.com/sajjadium/PersianCatsCTF/tree/master/HITCON/2018/children_tcache
+http://eternal.red/2018/children_tcache-writeup-and-tcache-overview/
+https://github.com/EmpireCTF/empirectf/blob/master/writeups/2018-10-20-HITCON-CTF/README.md#children-tcache
+https://github.com/cr0wnctf/writeups/tree/master/2018/2018_10_20_HITCON/children_tcache

@@ -1,0 +1,4 @@
+https://github.com/Hong5489/PlaidCTF2019/tree/master/can_you_guess_me
+https://xerxes-break.tistory.com/414
+https://ctftime.org/writeup/14671
+https://github.com/Pusty/writeups/tree/master/PlaidCTF2019#can-you-guess-me

@@ -1,0 +1,2 @@
+https://github.com/david942j/ctf-writeups/tree/master/hitcon-2018/hitcon
+https://balsn.tw/ctf_writeup/20181019-hitconctf/#hitcon

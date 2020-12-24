@@ -1,0 +1,2 @@
+https://github.com/abeaumont/ctfs/blob/master/plaidctf-2019/eulernt/README.md
+https://github.com/hyperreality/ctf-writeups/tree/master/2019-plaidctf

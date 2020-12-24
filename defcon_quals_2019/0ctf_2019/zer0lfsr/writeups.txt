@@ -1,0 +1,2 @@
+https://github.com/p4-team/ctf/tree/master/2019-03-23-0ctf-quals/crypto_lfsr
+https://fireshellsecurity.team/0ctf-zer0lfsr/

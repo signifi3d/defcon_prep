@@ -1,0 +1,2 @@
+https://medium.com/@defmax/35c3-2018-ctf-write-up-a7fe92e898f
+https://github.com/diofeher/ctf-writeups/tree/master/2018-12-29-35c3/lambda

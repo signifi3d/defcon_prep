@@ -1,0 +1,5 @@
+Security is difficult, and defenses should be always taken with a grain of salt.
+
+Who would win? A buffer overflow or The Hottest Linux Defenses?
+
+Flag is in /dev/sda.

@@ -1,0 +1,6 @@
+Oops, I did it again. :^)
+https://2019.ctf.link/internal/challenge/1fef0346-a1de-4aa4-8df9-2d18229c6dbb/
+
+This is commit # 4232874270015d940a2ba62c113bcf12986a2151 with the attached patch applied. Flag is in /dev/hdb.
+
+Note that the setup of this task is perhaps a bit shaky: If you don’t get a shell prompt within a few seconds after solving the proof of work, something is wrong. Each connection has a time limit of 10 minutes; you may contact us in case this causes problems for you.

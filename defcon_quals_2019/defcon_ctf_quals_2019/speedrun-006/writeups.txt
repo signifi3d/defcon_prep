@@ -1,0 +1,2 @@
+https://github.com/guyinatuxedo/ctf/tree/master/defconquals2019/speedrun/s6
+https://ctftime.org/writeup/15306

@@ -1,0 +1,2 @@
+https://github.com/EmpireCTF/empirectf/tree/master/writeups/2019-05-11-DEF-CON-CTF-Qualifier#143-pwn--rtooos
+https://blog.idiot.sg/2019-05-13/defcon-quals-2019-rtooos/

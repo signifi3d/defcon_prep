@@ -1,0 +1,6 @@
+https://github.com/OmreeBenari/35c3_collection
+https://vishnudevtj.github.io/notes/35c3-collection-witeup
+https://github.com/EmpireCTF/empirectf/blob/master/writeups/2018-12-27-35C3-CTF/README.md#150-pwn--collection
+https://blog.idiot.sg/2018-12-30/35c3-ctf-2018-collection/
+https://github.com/VoidHack/write-ups/blob/master/35C3/collection/collection_sploit.py
+https://www.da.vidbuchanan.co.uk/blog/35c3ctf-collection-writeup.html

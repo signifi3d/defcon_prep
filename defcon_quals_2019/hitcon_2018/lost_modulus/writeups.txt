@@ -1,0 +1,3 @@
+https://github.com/p4-team/ctf/tree/master/2018-10-20-hitcon/crypto_paillier
+https://github.com/wonrzrzeczny/CTF-writeups/tree/master/hitcon/lostmodulus
+https://gist.github.com/hellman/fd131ba8f7f2e538ac81e8c02af52ed3

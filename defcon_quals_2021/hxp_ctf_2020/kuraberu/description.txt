@@ -1,0 +1,9 @@
+Description:
+
+Help. Something happened to my license key while I was testing my most recent flag generator.
+
+Figure 1: Me Inadvertently Sabotaging a Shiny Program
+
+Could you please investigate where I messed up?
+
+Note: The flag follows the usual format. Remove any NULL bytes there might be.

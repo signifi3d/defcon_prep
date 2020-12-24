@@ -1,0 +1,7 @@
+https://github.com/david942j/ctf-writeups/tree/master/hitcon-2018/abyss
+
+https://github.com/yuawn/CTF/tree/master/2018/HITCON_CTF/Abyss_I_II_III
+https://blog.idiot.sg/2018-10-22/hitcon-ctf-2018-abyss-i/
+https://github.com/EmpireCTF/empirectf/tree/master/writeups/2018-10-20-HITCON-CTF#abyss-1
+https://thekidofarcrania.gitlab.io/2018/10/22/hitcon/
+https://github.com/cr0wnctf/writeups/tree/master/2018/2018_10_20_HITCON/abyss

@@ -1,0 +1,3 @@
+https://github.com/PDKT-Team/ctf/tree/master/hitcon2018/ev3-scanner
+https://aadityapurani.com/2018/10/22/hitcon-ctf-2018-ev3-series/#scanner
+https://w0y.at/writeup/2018/10/22/hitcon-2018-ev3-scanner.html

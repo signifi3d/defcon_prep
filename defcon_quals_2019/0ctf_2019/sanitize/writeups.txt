@@ -1,0 +1,2 @@
+https://balsn.tw/ctf_writeup/20190323-0ctf_tctf2019quals/#sanitize
+https://github.com/ENOFLAG/writeups/blob/master/0ctf2019/sanitize.md

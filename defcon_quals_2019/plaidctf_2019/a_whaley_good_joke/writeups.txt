@@ -1,0 +1,3 @@
+https://balsn.tw/ctf_writeup/20190413-plaidctf/#a-whaley-good-joke
+https://github.com/hscorpion/writeups/tree/master/plaid2019#a-whaley-good-joke-misc-150-pts
+https://github.com/zhengzufu/ctf/tree/master/2019/2019-04-13-plaidctf#a-whaley-good-joke

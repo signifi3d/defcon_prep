@@ -1,0 +1,5 @@
+https://rayoflightz.github.io/writeup/web/2019/01/03/35c3-php-writeup.html
+https://medium.com/@defmax/35c3-2018-ctf-write-up-a7fe92e898f
+https://www.boiteaklou.fr/35C3-CTF-Writeups.html#main-ctf-web---php
+https://github.com/galdeleon/35c3_php
+https://ctftime.org/writeup/12773

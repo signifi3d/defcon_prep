@@ -1,0 +1,4 @@
+https://github.com/zhengzufu/ctf/tree/master/2019/2019-04-13-plaidctf#space-saver
+https://github.com/Pusty/writeups/tree/master/PlaidCTF2019#space-saver
+https://medium.com/@naveenramesh915/plaidctf-2019-write-ups-53876c9a75eb
+https://github.com/Gdasl/CTFs/blob/master/PlaidCTF2019/SpaceSaver.md

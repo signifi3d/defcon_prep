@@ -1,0 +1,3 @@
+https://github.com/pr0cf5/CTF-writeups/tree/master/2019/pctf-2019/splaid-birch
+https://sectt.github.io/writeups/Plaid19/splaid_birch/README
+https://github.com/EmpireCTF/empirectf/blob/master/writeups/2019-04-12-PlaidCTF/README.md#300-pwnable--splaidbirch

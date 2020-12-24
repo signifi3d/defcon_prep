@@ -1,0 +1,5 @@
+https://github.com/Himanshukr000/DefconQuals_2019/blob/master/can't_even_unplug_it.md
+https://gitlab.com/bogomips/writeups/blob/master/DEF%20CON%20CTF%20Qualifier%202019/cant_even_unplug_it.adoc
+https://github.com/frank-cerny/CTFs/blob/master/Defcon_Quals_2019/Cant_Even_Unplug_It/cant_even_unplug_it_writeup.pdf
+https://youtu.be/gVRFfvfbewE
+https://klaus.hohenpoelz.de/def-con-ctf-qualifier-2019-cant-even-unplug-it.html

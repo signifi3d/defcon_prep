@@ -1,0 +1,2 @@
+https://github.com/EmpireCTF/empirectf/blob/master/writeups/2019-04-12-PlaidCTF/README.md#150-pwnable--cppp
+https://github.com/pr0cf5/CTF-writeups/blob/master/2019/pctf-2019/cpp/solve.py

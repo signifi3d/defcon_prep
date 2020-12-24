@@ -1,0 +1,6 @@
+https://github.com/PDKT-Team/ctf/tree/master/hitcon2018/ev3-basic
+https://www.osusec.org/hitcon-ctf-2018-ev3-basic/
+https://volatilevirus.home.blog/2018/10/22/hitcon-ctf18-ev3-basic-challenge-write-up/
+https://ctftime.org/writeup/11902
+https://w0y.at/writeup/2018/10/22/hitcon-2018-ev3-basic.html
+https://ctftime.org/writeup/11899S

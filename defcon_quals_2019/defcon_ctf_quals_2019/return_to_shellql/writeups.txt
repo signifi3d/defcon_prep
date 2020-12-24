@@ -1,0 +1,2 @@
+https://balsn.tw/ctf_writeup/20190513-defconctfqual/#return_to_shellql
+https://github.com/shombo/DEFCON-Qualifiers-2019/tree/master/return-to-shellql

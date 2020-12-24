@@ -1,0 +1,3 @@
+https://github.com/guyinatuxedo/ctf/tree/master/plaid19/re/plaid_party_planning_III
+https://github.com/hscorpion/writeups/tree/master/plaid2019#plaid-party-planning-iii-reversing-500-pts
+https://github.com/EmpireCTF/empirectf/blob/master/writeups/2019-04-12-PlaidCTF/README.md#500-reversing--plaidpartyplanningiii

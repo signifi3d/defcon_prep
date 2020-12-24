@@ -1,0 +1,3 @@
+http://duksctf.github.io/2019/04/13/PlaidCTF2019-rusad.html
+https://upbhack.de/posts/2019/04/writeup-r-u-sad-from-plaidctf-2019/
+https://cheesechoi.github.io/writeup/2019-plaid-RuSAd/

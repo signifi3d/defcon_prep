@@ -1,0 +1,2 @@
+https://github.com/EmpireCTF/empirectf/blob/master/writeups/2018-12-27-35C3-CTF/README.md#215-rev--notifico
+https://github.com/Hhro/ctfs/tree/master/2018/35c3/rev/notifico

@@ -1,0 +1,4 @@
+https://github.com/agadient/CTF/tree/master/0ctf_2019/baby_aegis
+https://balsn.tw/ctf_writeup/20190323-0ctf_tctf2019quals/#babyaegis
+https://ray-cp.github.io/archivers/0CTF_2019_PWN_WRITEUP#aegis
+https://github.com/vngkv123/CTF/blob/master/ctf_in_2019/babyaegis.py

@@ -1,0 +1,8 @@
+
+
+    It is not possible to bypass the monitoring performed by fakeroot-ng, even if one attempts to do so on purpose.
+
+— fakeroot-ng
+https://fakeroot-ng.lingnu.com/
+
+Note: The kernel is unmodified; we did not add any vulnerabilites.

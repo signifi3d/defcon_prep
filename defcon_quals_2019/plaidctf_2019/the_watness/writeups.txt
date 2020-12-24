@@ -1,0 +1,2 @@
+https://ctftime.org/writeup/14725
+http://blog.rb-tree.xyz/2019/04/22/plaidctf-2019-the-wat-ness/
