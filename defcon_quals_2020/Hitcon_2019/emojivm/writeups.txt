@@ -1,0 +1,4 @@
+https://github.com/10secTW/ctf-writeup/tree/master/2019/HITCON%20CTF/EmojiVM/pwn
+https://balsn.tw/ctf_writeup/20191012-hitconctfquals/#emojiiivm
+https://github.com/mephi42/ctf/tree/master/2019.10.12-HITCON_CTF_2019/pwn-EmojiiiVM
+https://hackmd.io/aXfSkixKTP67iNqBP9n3jQ

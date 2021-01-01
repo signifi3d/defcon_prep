@@ -1,0 +1,2 @@
+https://github.com/TFNS/writeups/blob/master/2020-04-17-PlaidCTF/dyrpto/README.md
+https://github.com/pcw109550/write-up/tree/master/2020/PlaidCTF/dyrpto

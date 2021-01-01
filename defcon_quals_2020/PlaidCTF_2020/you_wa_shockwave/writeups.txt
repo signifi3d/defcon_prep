@@ -1,0 +1,4 @@
+https://github.com/jacopotediosi/Writeups/tree/master/CTF/2020/PlaidCTF-2020/Rev-You_wa_shockwave-250
+https://github.com/perfectblue/ctf-writeups/tree/master/2020/plaidctf-2020/shockwave
+https://github.com/KEERRO/ctf-writeups/tree/master/Plaid%20CTF%202020/rev/YOU%20wa%20SHOCKWAVE
+https://www.tasteless.eu/post/2020/04/plaid-ctf-2020-re-shockwave-writeup/

@@ -1,0 +1,3 @@
+https://github.com/TFNS/writeups/blob/master/2020-04-17-PlaidCTF/sidhe/README.md
+http://blog.redrocket.club/2020/04/29/plaidctf-sidhe/
+https://sectt.github.io/writeups/Plaid20/crypto_sidhe/README

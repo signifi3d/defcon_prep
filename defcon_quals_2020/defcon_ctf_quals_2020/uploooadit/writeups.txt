@@ -1,0 +1,2 @@
+https://blog.shoebpatel.com/2020/05/18/DefCon-CTF-2020-HTTP-Desync-between-HAProxy-Gunicorn/
+https://github.com/m3ssap0/CTF-Writeups/blob/master/DEF%20CON%20CTF%20Qualifier%202020/uploooadit/README.md

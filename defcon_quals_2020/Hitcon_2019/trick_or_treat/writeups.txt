@@ -1,0 +1,3 @@
+https://github.com/Ex-Origin/ctf-writeups/tree/master/hitcon_ctf_2019/pwn/Trick_or_Treat
+https://faraz.faith/2019-10-14-hitconctf-2019-trick-or-treat/
+https://balsn.tw/ctf_writeup/20191012-hitconctfquals/#%F0%9F%8E%83-trick-or-treat-%F0%9F%8E%83

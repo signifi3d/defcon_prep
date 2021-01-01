@@ -1,0 +1,2 @@
+https://github.com/p4-team/ctf/tree/master/2019-10-12-hitcon/hexdump
+https://balsn.tw/ctf_writeup/20191012-hitconctfquals/#hexdump

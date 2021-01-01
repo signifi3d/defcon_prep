@@ -1,0 +1,2 @@
+https://github.com/sajjadium/CTFium/tree/master/C3CTF/2019/onetimepad
+https://2019.ctf.link/assets/files/onetimepad-3dacecfee0c81326.tar.xz

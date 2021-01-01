@@ -1,0 +1,2 @@
+https://github.com/p4-team/ctf/tree/master/2019-10-12-hitcon/lost_key
+https://balsn.tw/ctf_writeup/20191012-hitconctfquals/#lost-key-again

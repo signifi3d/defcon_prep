@@ -1,0 +1,3 @@
+https://github.com/WilliamParks/ctf_writeups/tree/master/ctf_writeups/defcon_quals_2020/fountain-ooo-reliving
+https://reveng-ctf.com/reverse/ooo-reliving.html
+https://ctftime.org/writeup/20636

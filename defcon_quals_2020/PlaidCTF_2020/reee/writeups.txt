@@ -1,0 +1,5 @@
+https://duksctf.github.io/2020/04/19/PLaidCTF-reee.html
+https://github.com/alex-ilgayev/CTFs/blob/master/PlaidCTF2020/reee/README.md
+https://www.tasteless.eu/post/2020/04/plaid-ctf-2020-re-reee-writeup/
+https://cesena.github.io/2020/04/20/reee/
+https://github.com/Hong5489/PlaidCTF2020/tree/master/reee

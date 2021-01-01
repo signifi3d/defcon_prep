@@ -1,0 +1,6 @@
+https://saarsec.rocks/2020/05/14/golf.so.html
+https://github.com/alex-ilgayev/CTFs/blob/master/PlaidCTF2020/golf.so/README.md
+https://teamrocketist.github.io/2020/04/20/Misc-PCTF2020-golf-so/
+https://ctftime.org/writeup/20098
+https://www.sigflag.at/blog/2020/writeup-plaidctf2020-golfso/
+https://github.com/TeamGreyFang/CTF-Writeups/blob/master/PlaidCTF2020/golf.so/README.md

@@ -1,0 +1,2 @@
+https://github.com/pcw109550/write-up/tree/master/2019/HITCON/Very_Simple_Haskell
+https://balsn.tw/ctf_writeup/20191012-hitconctfquals/#very-simple-haskell

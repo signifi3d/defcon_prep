@@ -1,0 +1,2 @@
+https://github.com/mdsnins/ctf-writeups/blob/master/2019/HITCON%202019/Virtual%20Public%20Network/VPN.md
+https://teamrocketist.github.io/2019/10/14/Web-Hitcon-2019-Virtual-Public-Network/

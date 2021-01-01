@@ -1,0 +1,3 @@
+https://github.com/Ex-Origin/ctf-writeups/tree/master/hitcon_ctf_2019/pwn/LazyHouse
+https://faraz.faith/2019-10-24-hitconctf-lazyhouse-balsn-exploit-analysis/
+https://balsn.tw/ctf_writeup/20191012-hitconctfquals/#lazyhouse

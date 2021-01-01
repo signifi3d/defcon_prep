@@ -1,0 +1,4 @@
+https://github.com/pcw109550/write-up/tree/master/2019/HITCON/Lost_Modulus_Again
+https://github.com/iamgweej/hitcon2019quals-writeups/tree/master/Lost%20Modulus%20Again
+https://github.com/p4-team/ctf/tree/master/2019-10-12-hitcon/lost_modulus
+https://gist.github.com/ngg/11f3143f8edd6ef7a813f2d147461b04

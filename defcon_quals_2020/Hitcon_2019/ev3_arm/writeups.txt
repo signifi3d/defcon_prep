@@ -1,0 +1,4 @@
+https://jloh02.github.io/ctf/hitcon-quals-2019#ev3-arm
+https://github.com/10secTW/ctf-writeup/blob/master/2019/HITCON CTF/EV3 Arm/ev3 arm.md
+https://balsn.tw/ctf_writeup/20191012-hitconctfquals/#ev3-arm
+https://blog.bi0s.in/2019/10/16/RE/Automation/EV3-Arm-HITCON-Quals-2019/

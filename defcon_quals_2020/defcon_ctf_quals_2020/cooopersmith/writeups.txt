@@ -1,0 +1,5 @@
+https://github.com/pcw109550/write-up/tree/master/2020/DEFCON/coooppersmith
+https://ctftime.org/writeup/20652
+https://ctftime.org/writeup/20646
+https://github.com/Ariana1729/CTF-Writeups/blob/master/2020/DEFCON/coooppersmith/README.md
+https://ctftime.org/writeup/20661

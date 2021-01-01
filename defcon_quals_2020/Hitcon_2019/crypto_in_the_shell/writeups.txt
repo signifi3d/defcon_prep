@@ -1,0 +1,3 @@
+https://github.com/Ex-Origin/ctf-writeups/tree/master/hitcon_ctf_2019/pwn/crypto_in_the_shell
+https://balsn.tw/ctf_writeup/20191012-hitconctfquals/#crypto-in-the-shell
+https://github.com/p4-team/ctf/tree/master/2019-10-12-hitcon/crypto_in_the_shell

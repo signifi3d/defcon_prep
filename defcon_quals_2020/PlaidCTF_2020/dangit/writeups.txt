@@ -1,0 +1,2 @@
+https://github.com/perfectblue/ctf-writeups/tree/master/2020/plaidctf-2020/dangit
+https://ctftime.org/writeup/20046

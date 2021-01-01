@@ -1,0 +1,2 @@
+https://github.com/amelkiy/write-ups/tree/master/CCC/36c3/WriteupBin
+https://ctftime.org/writeup/17891

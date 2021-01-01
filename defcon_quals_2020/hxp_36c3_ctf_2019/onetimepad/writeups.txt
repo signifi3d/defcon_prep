@@ -1,0 +1,3 @@
+https://hxp.io/blog/65/hxp-36C3-CTF-onetimepad/
+https://yichenchai.github.io/blog/hxp-ctf
+https://ctftime.org/writeup/17934

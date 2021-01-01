@@ -1,0 +1,2 @@
+https://github.com/pcw109550/write-up/tree/master/2020/PlaidCTF/MPKC
+https://github.com/Se-P3t/ctf-writeup/tree/master/2020/PlaidCTF/crypto_MPKC

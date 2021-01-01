@@ -1,0 +1,3 @@
+https://github.com/wwong/ctf/tree/master/writeups/2019/hxp-36c3/xmas_future
+https://teamrocketist.github.io/2019/12/30/Reverse-36c3-xmas-future/
+https://anee.me/reversing-web-assembly-wasm-dd59eb2a52d4

@@ -1,0 +1,4 @@
+https://github.com/dshynkev/ctf-writeups/tree/master/2020/defcon-quals/crypto/notbefooled
+https://ctftime.org/writeup/20660
+https://github.com/rodobre/ctf-writeups/tree/master/2020_defcon_ctf
+https://github.com/Ariana1729/CTF-Writeups/blob/master/2020/DEFCON/notbefoooled/README.md

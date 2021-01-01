@@ -1,0 +1,2 @@
+https://github.com/ldruschk/ctf-writeups/blob/master/2020_plaidctf_bonzi_scheme.md
+https://hxp.io/blog/71/PlaidCTF-2020-Bonzi-Scheme/

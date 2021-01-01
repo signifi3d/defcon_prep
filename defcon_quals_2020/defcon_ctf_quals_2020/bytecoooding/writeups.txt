@@ -1,0 +1,2 @@
+https://github.com/mattiasgrenfeldt/writeups/tree/master/2020/defconquals/bytecoooding
+https://github.com/BlackFan/ctfs/tree/master/defcon_2020_quals/bytecoooding

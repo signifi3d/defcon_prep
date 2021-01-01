@@ -1,0 +1,2 @@
+https://github.com/WilliamParks/ctf_writeups/tree/master/ctf_writeups/defcon_quals_2020/flag-hunting
+https://www.sigflag.at/blog/2020/defconq2020-flag-hunting/

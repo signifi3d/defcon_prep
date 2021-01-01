@@ -1,0 +1,3 @@
+http://blog.zeddyu.info/2020/04/20/Plaid-CTF-2020-Web-1/
+https://github.com/ByteBandits/writeups/blob/master/plaid-ctf-2020/web/contrived/zevtnax/README.md
+https://balsn.tw/ctf_writeup/20200418-plaidctf2020/#contrived-web-problem

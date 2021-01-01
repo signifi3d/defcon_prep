@@ -1,0 +1,3 @@
+https://jloh02.github.io/ctf/hitcon-quals-2019#ev3-player
+https://balsn.tw/ctf_writeup/20191012-hitconctfquals/#ev3-player
+https://blog.bi0s.in/2019/10/14/Forensics/HitConQuals19-EV3Player/

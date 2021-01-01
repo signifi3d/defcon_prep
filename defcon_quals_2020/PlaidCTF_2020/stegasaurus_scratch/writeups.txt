@@ -1,0 +1,3 @@
+https://github.com/karliss/ctf_writeups/blob/master/2020/PlaidCTF/stegasaurus/writeup_stegasaurus.md
+https://ctftime.org/writeup/20048
+https://gist.github.com/terjanq/a28476359870600c7ad79eb0bbdd9d07

@@ -1,0 +1,4 @@
+https://balsn.tw/ctf_writeup/20200418-plaidctf2020/#json-bourne
+https://ctftime.org/writeup/20099
+https://ctftime.org/writeup/20095
+https://ctftime.org/writeup/20090

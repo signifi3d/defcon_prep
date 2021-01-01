@@ -1,0 +1,3 @@
+https://github.com/oranav/ctf-writeups/tree/master/plaid20/sandybox
+https://www.sigflag.at/blog/2020/writeup-plaidctf2020-sandybox/
+https://github.com/kscieslinski/CTF/tree/master/pwn/plaid2020/sandybox

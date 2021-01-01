@@ -1,0 +1,2 @@
+https://hxp.io/blog/70/hxp-36C3-CTF-md15/
+https://github.com/oranav/ctf-writeups/tree/master/36c3/md15

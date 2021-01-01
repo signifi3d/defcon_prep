@@ -1,0 +1,4 @@
+https://trungnguyen1909.github.io/blog/post/PlaidCTF2020/
+https://pwnfirstsear.ch/2020/04/20/plaidctf2020-mojo.html
+https://github.com/oranav/ctf-writeups/tree/master/plaid20/mojo
+https://github.com/A-0-E/writeups/blob/master/plaidctf-2020/README.md#mojo

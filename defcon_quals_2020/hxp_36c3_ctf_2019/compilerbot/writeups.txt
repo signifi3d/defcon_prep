@@ -1,0 +1,4 @@
+https://hxp.io/blog/64/hxp-36C3-CTF-compilerbot/
+https://github.com/tmr232/writeups/tree/master/hxp-36c3-ctf/compilerbot
+https://github.com/OmerYe/ctf-writeups/blob/master/2019/36c3/compilerbot-solve.py
+https://rpis.ec/blog/hxp-26c3-ctf-compilerbot/
